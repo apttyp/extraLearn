@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import matplotlib.pyplot as plt
 fig = plt.figure()
 ax = fig.add_subplot(111)

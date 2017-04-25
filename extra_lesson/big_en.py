@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 def strturn(s):
 	return s[0:1].upper()+s[1:].lower()
 if __name__ == '__main__':

@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env python
 import json
 import xlwt
 import xlrd

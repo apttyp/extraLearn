@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 def foo(*args,**kwargs):
 	print 'args=',args
 	print 'kwargs=',kwargs

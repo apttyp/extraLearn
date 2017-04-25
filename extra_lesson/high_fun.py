@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 def ggg(x,y,f):
 	return f(x)+f(y)
 

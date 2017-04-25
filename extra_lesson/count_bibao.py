@@ -1,5 +1,6 @@
-#!/bin/python
+#!/usr/bin/env python
 def count():
+
     fs = []
     for i in range(1, 4):
         def f():

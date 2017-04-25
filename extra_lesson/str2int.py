@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 def str2int(s):
     def fn(x, y):
         return x * 10 + y

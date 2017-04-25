@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 L = []
 M = []
 n=1

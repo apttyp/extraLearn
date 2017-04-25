@@ -1,5 +1,4 @@
-#!/bin/python
-
+#!/usr/bin/env python
 def adjust_tool(n):
 	i = 2;
 	if n==1:
