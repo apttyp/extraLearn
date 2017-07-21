@@ -8,18 +8,18 @@ from email.MIMEMultipart import MIMEMultipart
 
 def sendsimplemail (warning):
         msg = MIMEText(warning)
-        msg['Subject'] = 'My Subject'
+        msg['Subject'] = '见字如面'
         msg['From'] = 'from@163.com'
         try:
                 smtp = smtplib.SMTP()
                 smtp.connect(r'smtp.163.com')
-                smtp.login('from@163.com', 'password')
-                smtp.sendmail('from@163.com', ['to@163.com'], msg.as_string())
+                smtp.login('from@163.com', password)
+                smtp.sendmail('from@163.com', ['to@qq.com'], msg.as_string())
                 smtp.close()
 		print "Send success!!!"
         except Exception, e:
                     print e
 
 if __name__ == '__main__':
-        sendsimplemail(warning = "code:123456")
+        sendsimplemail(warning = "jige")
 
