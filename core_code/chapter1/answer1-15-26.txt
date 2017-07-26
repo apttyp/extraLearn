@@ -1,0 +1,51 @@
+1-15
+>>> import re
+>>> pat = '\d{4}-\d{6}-\d{5}|\d{4}-\d{4}-\d{4}-\d{4}'
+>>> re.search(pat, '1234-567890-12345').group()
+'1234-567890-12345'
+>>> re.search(pat, '1234-1234-1234-1234').group()
+'1234-1234-1234-1234'
+
+1-19 
+>>> import re
+>>> pat = '\w+\s\w+\s\d+\s\d\d:\d\d:\d\d\s\d\d\d\d'
+>>> re.search(pat, 'Mon Feb 20 00:12:42 2090::zyzw@gkbaz.edu::3791203962-4-5').group()
+'Mon Feb 20 00:12:42 2090'
+
+1-20
+>>> pat = '\w+@\w+\.\w+'
+>>> re.search(pat, 'Mon Feb 20 00:12:42 2090::zyzw@gkbaz.edu::3791203962-4-5').group()
+'zyzw@gkbaz.edu'
+
+1-21
+>>> pat = '\s(\w+)\s'
+>>> re.search(pat, 'Mon Feb 20 00:12:42 2090::zyzw@gkbaz.edu::3791203962-4-5').group()
+' Feb '
+
+1-22
+>>> pat = '\d\d\d\d'
+>>> re.search(pat, 'Sun Nov 15 04:03:55 1998::fvwsl@slsqoj.edu::911073835-5-6').group()
+'1998'
+
+1-23
+>>> pat = '\d\d:\d\d:\d\d'
+>>> re.search(pat, 'Sun Nov 15 04:03:55 1998::fvwsl@slsqoj.edu::911073835-5-6').group()
+'04:03:55'
+
+1-24
+>>> pat = '\w+@\w+\.\w+'
+>>> re.search(pat, 'Sun Nov 15 04:03:55 1998::fvwsl@slsqoj.edu::911073835-5-6').group()
+'fvwsl@slsqoj.edu'
+
+1-25
+>>> pat = '@\w+'
+>>> re.search(pat, 'Sun Nov 15 04:03:55 1998::fvwsl@slsqoj.edu::911073835-5-6').group()
+'@slsqoj'
+>>> pat = '\.\w+'
+>>> re.search(pat, 'Sun Nov 15 04:03:55 1998::fvwsl@slsqoj.edu::911073835-5-6').group()
+'.edu'
+
+1-26
+>>> pat = '\w+@\w+\.\w+'
+>>> re.sub(pat, 'aa@qq.com', 'Sun Nov 15 04:03:55 1998::fvwsl@slsqoj.edu::911073835-5-6')
+'Sun Nov 15 04:03:55 1998::aa@qq.com::911073835-5-6'
