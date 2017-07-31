@@ -3,7 +3,7 @@
 import requests
 import sys
 import re
-
+#python 2.7
 reload(sys)
 sys.setdefaultencoding('utf8')
 
