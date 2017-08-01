@@ -1,1 +1,0 @@
-['www.baidu.com/bdorz/login.gif?login&tpl=mn&u=\'+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ \'" name="tj_login" class="lb">\xc3\xa7\xc2\x99\xc2\xbb\xc3\xa5\xc2\xbd\xc2\x95</a>\');</script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;']

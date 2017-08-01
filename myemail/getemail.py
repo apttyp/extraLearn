@@ -48,7 +48,7 @@ def print_info(msg, indent=0):
             print('%sText: %s' % ('  ' * indent, content + '...'))
         else:
             print('%sAttachment: %s' % ('  ' * indent, content_type)) 
-##登录操作
+
 email = raw_input('Email: ')
 password = raw_input('Password: ')
 pop3_server = raw_input('POP3 server: ')
@@ -57,14 +57,16 @@ server = poplib.POP3(pop3_server)
 print(server.getwelcome())
 server.user(email)
 server.pass_(password)
+print(server.stat())
 #print('Messages: %s. Size: %s' % server.stat())
 resp, mails, octets = server.list()
-##获取最新一封邮件的信息
 resp, lines, octets = server.retr(len(mails))
 msg_content = '\r\n'.join(lines)
+
+print(msg_content)
+print(server.list())
 msg = Parser().parsestr(msg_content)
-print(msg)
-##匹配规则
+#print(msg)
 kk = 'Subject: code=(\d\d\d\d\d\d)'
 res = re.findall(kk, str(msg))
 print(str(res))

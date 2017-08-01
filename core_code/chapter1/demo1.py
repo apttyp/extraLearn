@@ -5,8 +5,11 @@ from string import ascii_lowercase as lc
 from string import ascii_uppercase as LC
 from sys import maxint
 from time import ctime
+import os
 
 tlds = ('com', 'edu', 'net', 'org', 'gov')
+
+os.remove('redata.txt')
 
 for i in xrange(randrange(5, 11)):
     dtint = randrange(2**32)
