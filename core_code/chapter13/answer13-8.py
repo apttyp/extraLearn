@@ -2,6 +2,7 @@
 
 from urllib2 import urlopen as uop
 from time import ctime
+import time
 import csv
 
 TICKs = ('yhoo', 'dell', 'cost', 'adbe','intc', 'aple', 'goog', 'ebay', 'amzn')
@@ -15,7 +16,11 @@ print type(u)
 
 if myintput == 'Y' or myintput == 'y':
     print 'write to file'
-    with open('mydemo1.txt', 'w') as f:
+    mytime = time.strftime("%Y%m%d%H%M%S", time.localtime())
+    print mytime
+    res = mytime+'.txt'
+    
+    with open(res, 'w') as f:
         for row in u:
             tick, price, chg, per = row.split(',')
             if price == 'N/A':
