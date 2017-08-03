@@ -18,9 +18,6 @@ ISBNs = {
     '0137143419':'Python Fundamentals',
 }
 
-
-
-
 def getRanking(isbn):
     print AMZN+isbn
     r = requests.get(AMZN+isbn)
