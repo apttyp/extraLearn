@@ -24,7 +24,8 @@ def main():
         if "Game.of.Thrones.S07E03" in magnet:
 	    useful.append(magnet)
     print len(useful)
-    print useful
+    l2 = list(set(useful))
+    print l2
 
 if __name__ == '__main__':
     main()
