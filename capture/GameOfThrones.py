@@ -21,7 +21,7 @@ def main():
     useful = []
     for magnet in res:
 #    if "Game.of.Thrones.S07E03" in magnet and "1080p" in magnet:
-        if "Game.of.Thrones.S07E03" in magnet:
+        if "Game.of.Thrones.S07E05" in magnet:
 	    useful.append(magnet)
     print len(useful)
     l2 = list(set(useful))
