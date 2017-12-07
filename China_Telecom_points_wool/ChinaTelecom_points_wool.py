@@ -56,9 +56,9 @@ driver.find_element_by_xpath(xpath='/html/body/div[4]/div[1]/div/a[1]').click()
 driver.find_element_by_xpath(xpath='//*[@id="logintPupup"]/a[1]').click()
 time.sleep(2)
 ##用户名phonenumber
-driver.find_element_by_xpath(xpath='//*[@id="cellphonePupup"]').send_keys('181********')
+driver.find_element_by_xpath(xpath='//*[@id="cellphonePupup"]').send_keys('181*******')
 ##密码
-driver.find_element_by_xpath(xpath='//*[@id="cellphoneloginformPupup"]/div[1]/input').send_keys('******')
+driver.find_element_by_xpath(xpath='//*[@id="cellphoneloginformPupup"]/div[1]/input').send_keys('9*****')
 
 qqq =driver.find_element_by_xpath('//*[@id="validateImage"]')
 ActionChains(driver).context_click(qqq).perform()
@@ -98,7 +98,7 @@ if len(mynewstr)!=4:
 
 driver.find_element_by_xpath(xpath='//*[@id="cellphoneloginformPupup"]/p[2]/b/input').send_keys(mynewstr)
 driver.find_element_by_xpath(xpath='//*[@id="cellphoneloginformPupupsubmitLoginBtn"]/span').click()
-time.sleep(2)
+time.sleep(5)
 driver.find_element_by_xpath(xpath='//*[@id="codeMsg"]').click()
 
 time.sleep(60)
