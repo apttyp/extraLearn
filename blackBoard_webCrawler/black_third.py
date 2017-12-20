@@ -10,6 +10,7 @@ website2 = 'http://www.heibanke.com/lesson/crawler_ex02/'
 wrongNotify = '错误'
 res1 = requests.get(website1)     # 访问登录页面获取登录要用的csrftoken
 cookies1 = res1.cookies
+print cookies1
 token1 = cookies1['csrftoken']      # 保存csrftoken
 # 将csrftoekn存入字段csrfmiddlewaretoken
 dataWebsite1 = {'username': 'ppq123','password': '123456','csrfmiddlewaretoken': token1}
