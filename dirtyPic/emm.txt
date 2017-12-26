@@ -1,0 +1,1221 @@
+20171224210228
+
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <meta name="description" content="OneJAV.com - Free JAV torrents - One JAV to rule them all. One JAV to find them, One JAV to bring them all and in the darkness bind them.">
+        <meta property="og:title" content="OneJAV">
+        
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/static/css/bulma.87032a854d9f.css">
+        <link rel="stylesheet" href="/static/css/onejav.3cb5340d07fa.css">
+        
+        <link rel="apple-touch-icon" href="/static/img/onejav.5468a5a7d373.png">
+        <link rel="shortcut icon" href="/static/img/onejav.5468a5a7d373.png">
+        <title>OneJAV.com - Free JAV Torrents</title>
+        
+			
+			<script>
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			  ga('create', 'UA-85812008-1', 'auto');
+			  ga('send', 'pageview');
+			</script>
+        
+    </head>
+    <body>
+
+        
+<nav class="navbar is-fixed">
+	<div class="navbar-brand">
+        <a class="navbar-item" href="/">
+            <img src="/static/img/onejav.5468a5a7d373.png" width="30" height="30">
+            OneJAV
+        </a>
+        <div class="navbar-burger burger" data-target="navMenu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+	</div>
+    <div id="navMenu" class="navbar-menu">
+        <div class="navbar-start">
+			<a class="navbar-item" href="/">
+                <span class="icon">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                </span>
+                Home
+            </a>
+            
+			<a class="navbar-item" href="/new">
+                <span class="icon">
+                    <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+                </span>
+            
+                New
+            </a>
+			<a class="navbar-item" href="/popular/">
+                <span class="icon">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                </span>
+                <span>
+                    Popular
+                </span>
+            </a>
+			<a class="navbar-item" href="/random/">
+                <span class="icon">
+                    <i class="fa fa-question" aria-hidden="true"></i>
+                </span>
+                <span>
+                    Random
+                </span>
+            </a>
+			<a class="navbar-item" href="/actress/">
+                <span class="icon">
+                    <i class="fa fa-female" aria-hidden="true"></i>
+                </span>
+                <span>
+                    Actresses
+                </span>
+            </a>
+			<a class="navbar-item" href="/tag/">
+                <i class="fa fa-tags" aria-hidden="true"></i>
+                Tags
+            </a>
+            
+        </div>
+        <div class="navbar-end">
+            <div class="navbar-item">
+                <form class="field is-grouped" method="get" action="/search/">
+                    <a class="control button is-danger is-outlined" href="/favorite/">
+                        <i class="fa fa-bookmark"></i>
+                    </a>
+                    
+                    <input class="input is-expanded" name="q" type="text" placeholder="Search torrents" value="">
+                    <button class="control button is-primary" type="submit">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+	</div>
+</nav>
+
+
+		
+<div class="container is-fluid">
+    
+    
+
+
+
+<div class="columns is-desktop">
+    <div class="column is-narrow">
+        <div class="card">
+            <header class="card-header">
+                <p class="card-header-title is-centered">
+                    Actress of the Day
+                </p>
+            </header>
+            <div class="card-content">
+                <div style="position: relative">
+                    <a href="/actress/%E5%85%AB%E4%B9%83%E3%81%A4%E3%81%B0%E3%81%95">
+                        <span class="link-box">
+                            <div class="text-over-box has-text-centered">
+                                八乃つばさ
+                                
+                            </div>
+                        </span>
+                    </a>
+                    <img style="max-height: 268px"
+                        class="card-img-bottom img-fluid"
+                        data-toggle="tooltip" data-placement="bottom"
+                        title="八乃つばさ" src="https://pics.dmm.co.jp/mono/movie/adult/mide497/mide497pl.jpg">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="column" style="overflow-x: auto">
+        <div class="card">
+            <header class="card-header">
+                <p class="card-header-title is-centered">
+                    Featured Torrents
+                </p>
+            </header>
+            <div class="card-content">
+                
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/shic087">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/h_839shic087/h_839shic087pl.jpg">
+                <div class="thumbnail-text">
+                    SHIC087 絹華ちづる (5.0 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/abp664">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118abp664/118abp664pl.jpg">
+                <div class="thumbnail-text">
+                    ABP664 Shunka Ayami (1.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/hnd453">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/hnd453/hnd453pl.jpg">
+                <div class="thumbnail-text">
+                    HND453 神美 (1.8 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/homa030">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/homa030/homa030pl.jpg">
+                <div class="thumbnail-text">
+                    HOMA030 原ちとせ (1.7 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/star841">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1star841/1star841pl.jpg">
+                <div class="thumbnail-text">
+                    STAR841 三田杏 (2.0 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/pppd605">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/pppd605/pppd605pl.jpg">
+                <div class="thumbnail-text">
+                    PPPD605 真白ここ (1.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/abp656">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118abp656/118abp656pl.jpg">
+                <div class="thumbnail-text">
+                    ABP656 Mion Sonoda (1.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/shic088">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/h_839shic088/h_839shic088pl.jpg">
+                <div class="thumbnail-text">
+                    SHIC088 Various actresses (5.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/xvsr311">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/xvsr311so/xvsr311sopl.jpg">
+                <div class="thumbnail-text">
+                    XVSR311 羽月希 (1.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/cetd292">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/cetd292/cetd292pl.jpg">
+                <div class="thumbnail-text">
+                    CETD292 Kanako Maeta (1.3 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="overview_list">
+
+    
+
+<div class="card mb-1 card-overview" data-date="2017-12-24">
+    
+    <a class="overview" href="/2017/12/24">
+        <header class="card-header">
+            <p class="card-header-title">
+            Dec. 24, 2017
+            </p>
+            <div class="card-header-icon">
+            <span class="tag is-primary">
+                More
+                <span class="icon">
+                    <i class="fa fa-caret-right"></i>
+                </span>
+            </span>
+            </div>
+        </header>
+    </a>
+    
+    <div class="card-content">
+        
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/dic047">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118dic047/118dic047pl.jpg">
+                <div class="thumbnail-text">
+                    DIC047 (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/davk027">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/55davk027/55davk027pl.jpg">
+                <div class="thumbnail-text">
+                    DAVK027 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ebod614">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/ebod614/ebod614pl.jpg">
+                <div class="thumbnail-text">
+                    EBOD614 (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ebod612">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/ebod612/ebod612pl.jpg">
+                <div class="thumbnail-text">
+                    EBOD612 祈里きすみ (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/eyan103">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/eyan103/eyan103pl.jpg">
+                <div class="thumbnail-text">
+                    EYAN103 水川かずは (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/apns035">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/apns035so/apns035sopl.jpg">
+                <div class="thumbnail-text">
+                    APNS035 Various actresses (1015.8 MB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sga105">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118sga105/118sga105pl.jpg">
+                <div class="thumbnail-text">
+                    SGA105 平岡花菜 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/eyan104">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/eyan104/eyan104pl.jpg">
+                <div class="thumbnail-text">
+                    EYAN104 長谷川由香 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/meyd321">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/meyd321/meyd321pl.jpg">
+                <div class="thumbnail-text">
+                    MEYD321 川北りな (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sga104">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118sga104/118sga104pl.jpg">
+                <div class="thumbnail-text">
+                    SGA104 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+    </div>
+</div>
+
+
+    
+
+<div class="card mb-1 card-overview" data-date="2017-12-23">
+    
+    <a class="overview" href="/2017/12/23">
+        <header class="card-header">
+            <p class="card-header-title">
+            Dec. 23, 2017
+            </p>
+            <div class="card-header-icon">
+            <span class="tag is-primary">
+                More
+                <span class="icon">
+                    <i class="fa fa-caret-right"></i>
+                </span>
+            </span>
+            </div>
+        </header>
+    </a>
+    
+    <div class="card-content">
+        
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/mide497">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/mide497/mide497pl.jpg">
+                <div class="thumbnail-text">
+                    MIDE497 八乃つばさ (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ebod609">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/ebod609/ebod609pl.jpg">
+                <div class="thumbnail-text">
+                    EBOD609 RION (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/eyan105">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/eyan105/eyan105pl.jpg">
+                <div class="thumbnail-text">
+                    EYAN105 谷山智美 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ebod611">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/ebod611/ebod611pl.jpg">
+                <div class="thumbnail-text">
+                    EBOD611 音無レナ (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/mide494">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/mide494/mide494pl.jpg">
+                <div class="thumbnail-text">
+                    MIDE494 Itou Chinami (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ebod613">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/ebod613/ebod613pl.jpg">
+                <div class="thumbnail-text">
+                    EBOD613 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/mide495">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/mide495/mide495pl.jpg">
+                <div class="thumbnail-text">
+                    MIDE495 JULIA (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/meyd327">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/meyd327/meyd327pl.jpg">
+                <div class="thumbnail-text">
+                    MEYD327 君島みお (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sden017">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1sden017/1sden017pl.jpg">
+                <div class="thumbnail-text">
+                    SDEN017 Various actresses (3.3 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/mide496">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/mide496/mide496pl.jpg">
+                <div class="thumbnail-text">
+                    MIDE496 秋山祥子 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+    </div>
+</div>
+
+
+    
+
+<div class="card mb-1 card-overview" data-date="2017-12-22">
+    
+    <a class="overview" href="/2017/12/22">
+        <header class="card-header">
+            <p class="card-header-title">
+            Dec. 22, 2017
+            </p>
+            <div class="card-header-icon">
+            <span class="tag is-primary">
+                More
+                <span class="icon">
+                    <i class="fa fa-caret-right"></i>
+                </span>
+            </span>
+            </div>
+        </header>
+    </a>
+    
+    <div class="card-content">
+        
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/nhdtb073">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1nhdtb073/1nhdtb073pl.jpg">
+                <div class="thumbnail-text">
+                    NHDTB073 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sdmu750">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1sdmu750/1sdmu750pl.jpg">
+                <div class="thumbnail-text">
+                    SDMU750 (1.6 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/iene845">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1iene845/1iene845pl.jpg">
+                <div class="thumbnail-text">
+                    IENE845 美谷朱里 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/dandy581">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1dandy581/1dandy581pl.jpg">
+                <div class="thumbnail-text">
+                    DANDY581 (1.8 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/arso17105">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1arso17105/1arso17105pl.jpg">
+                <div class="thumbnail-text">
+                    ARSO17105 (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/dvdms204">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/dvdms204so/dvdms204sopl.jpg">
+                <div class="thumbnail-text">
+                    DVDMS204 (1.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sw528">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1sw528/1sw528pl.jpg">
+                <div class="thumbnail-text">
+                    SW528 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sdmu748">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1sdmu748/1sdmu748pl.jpg">
+                <div class="thumbnail-text">
+                    SDMU748 (2.9 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/nhdtb070">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1nhdtb070/1nhdtb070pl.jpg">
+                <div class="thumbnail-text">
+                    NHDTB070 (1.8 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sdde522">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1sdde522/1sdde522pl.jpg">
+                <div class="thumbnail-text">
+                    SDDE522 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+    </div>
+</div>
+
+
+    
+
+<div class="card mb-1 card-overview" data-date="2017-12-21">
+    
+    <a class="overview" href="/2017/12/21">
+        <header class="card-header">
+            <p class="card-header-title">
+            Dec. 21, 2017
+            </p>
+            <div class="card-header-icon">
+            <span class="tag is-primary">
+                More
+                <span class="icon">
+                    <i class="fa fa-caret-right"></i>
+                </span>
+            </span>
+            </div>
+        </header>
+    </a>
+    
+    <div class="card-content">
+        
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/star860">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1star860/1star860pl.jpg">
+                <div class="thumbnail-text">
+                    STAR860 Yume Takeda (1.7 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/sdab051">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1sdab051/1sdab051pl.jpg">
+                <div class="thumbnail-text">
+                    SDAB051 竹内乃愛 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/saba353">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/h_244saba353/h_244saba353pl.jpg">
+                <div class="thumbnail-text">
+                    SABA353 (2.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/scop483">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/84scop483/84scop483pl.jpg">
+                <div class="thumbnail-text">
+                    SCOP483 (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/bazx102">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/84bazx102/84bazx102pl.jpg">
+                <div class="thumbnail-text">
+                    BAZX102 (1.9 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/star859">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1star859/1star859pl.jpg">
+                <div class="thumbnail-text">
+                    STAR859 Mitsuba Kikukawa (1.3 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/star855">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/1star855/1star855pl.jpg">
+                <div class="thumbnail-text">
+                    STAR855 紗倉まな (1.3 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/saba355">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/h_244saba355/h_244saba355pl.jpg">
+                <div class="thumbnail-text">
+                    SABA355 (1.9 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/oyc153">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/oyc153/oyc153pl.jpg">
+                <div class="thumbnail-text">
+                    OYC153 (2.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/mdb839">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/84mdb839/84mdb839pl.jpg">
+                <div class="thumbnail-text">
+                    MDB839 Various actresses (1.6 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+    </div>
+</div>
+
+
+    
+
+<div class="card mb-1 card-overview" data-date="2017-12-20">
+    
+    <a class="overview" href="/2017/12/20">
+        <header class="card-header">
+            <p class="card-header-title">
+            Dec. 20, 2017
+            </p>
+            <div class="card-header-icon">
+            <span class="tag is-primary">
+                More
+                <span class="icon">
+                    <i class="fa fa-caret-right"></i>
+                </span>
+            </span>
+            </div>
+        </header>
+    </a>
+    
+    <div class="card-content">
+        
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/xrw411">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/84xrw411/84xrw411pl.jpg">
+                <div class="thumbnail-text">
+                    XRW411 諸星エミリー (1010.6 MB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/tikf016">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/tikf016/tikf016pl.jpg">
+                <div class="thumbnail-text">
+                    TIKF016 美谷朱里 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/hzgd073">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/h_1100hzgd073r/h_1100hzgd073rpl.jpg">
+                <div class="thumbnail-text">
+                    HZGD073 川口葉純 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/xrw415">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/84xrw415/84xrw415pl.jpg">
+                <div class="thumbnail-text">
+                    XRW415 Miyu Amano (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/hzgd071">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/h_1100hzgd071r/h_1100hzgd071rpl.jpg">
+                <div class="thumbnail-text">
+                    HZGD071 君島みお (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ovg069">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/13ovg069/13ovg069pl.jpg">
+                <div class="thumbnail-text">
+                    OVG069 Various actresses (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/trum005">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/trum005/trum005pl.jpg">
+                <div class="thumbnail-text">
+                    TRUM005 澁谷果歩 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/eiki061">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/57eiki061/57eiki061pl.jpg">
+                <div class="thumbnail-text">
+                    EIKI061 優梨まいな (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/mdb842">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/84mdb842/84mdb842pl.jpg">
+                <div class="thumbnail-text">
+                    MDB842 Various actresses (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/hzgd072">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/h_1100hzgd072r/h_1100hzgd072rpl.jpg">
+                <div class="thumbnail-text">
+                    HZGD072 谷原希美 (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+    </div>
+</div>
+
+
+    
+
+<div class="card mb-1 card-overview" data-date="2017-12-19">
+    
+    <a class="overview" href="/2017/12/19">
+        <header class="card-header">
+            <p class="card-header-title">
+            Dec. 19, 2017
+            </p>
+            <div class="card-header-icon">
+            <span class="tag is-primary">
+                More
+                <span class="icon">
+                    <i class="fa fa-caret-right"></i>
+                </span>
+            </span>
+            </div>
+        </header>
+    </a>
+    
+    <div class="card-content">
+        
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/juy332">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/juy332/juy332pl.jpg">
+                <div class="thumbnail-text">
+                    JUY332 遥あやね (1.9 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ap500">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/ap500/ap500pl.jpg">
+                <div class="thumbnail-text">
+                    AP500 (3.6 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/hunta388">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/hunta388/hunta388pl.jpg">
+                <div class="thumbnail-text">
+                    HUNTA388 (2.6 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/ktkc025">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/ktkc025/ktkc025pl.jpg">
+                <div class="thumbnail-text">
+                    KTKC025 (5.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/gvg605">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/13gvg605/13gvg605pl.jpg">
+                <div class="thumbnail-text">
+                    GVG605 Miyu Amano (1.3 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/hunta390">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/hunta390/hunta390pl.jpg">
+                <div class="thumbnail-text">
+                    HUNTA390 (4.8 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/oyc151">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/oyc151/oyc151pl.jpg">
+                <div class="thumbnail-text">
+                    OYC151 (2.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/tchr007">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/tchr007/tchr007pl.jpg">
+                <div class="thumbnail-text">
+                    TCHR007 (2.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/gvg601">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/13gvg601/13gvg601pl.jpg">
+                <div class="thumbnail-text">
+                    GVG601 Misaki Honda (1.2 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/gvg602">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/13gvg602/13gvg602pl.jpg">
+                <div class="thumbnail-text">
+                    GVG602 Yuuri Oshikawa (1.3 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+    </div>
+</div>
+
+
+    
+
+<div class="card mb-1 card-overview" data-date="2017-12-18">
+    
+    <a class="overview" href="/2017/12/18">
+        <header class="card-header">
+            <p class="card-header-title">
+            Dec. 18, 2017
+            </p>
+            <div class="card-header-icon">
+            <span class="tag is-primary">
+                More
+                <span class="icon">
+                    <i class="fa fa-caret-right"></i>
+                </span>
+            </span>
+            </div>
+        </header>
+    </a>
+    
+    <div class="card-content">
+        
+
+<div class="dragscroll">
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/tikb019">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/tikb019/tikb019pl.jpg">
+                <div class="thumbnail-text">
+                    TIKB019 Aya Sasami (1.4 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/tikc016">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/tikc016/tikc016pl.jpg">
+                <div class="thumbnail-text">
+                    TIKC016 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/aka050_2">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118aka050r/118aka050rpl.jpg">
+                <div class="thumbnail-text">
+                    AKA050 (3.9 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/dvdms201">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/dvdms201so/dvdms201sopl.jpg">
+                <div class="thumbnail-text">
+                    DVDMS201 (6.9 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/juy346">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/juy346/juy346pl.jpg">
+                <div class="thumbnail-text">
+                    JUY346 (1.3 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/juy339">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/juy339/juy339pl.jpg">
+                <div class="thumbnail-text">
+                    JUY339 山本鈴 (1.1 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/tem064_2">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118tem064/118tem064pl.jpg">
+                <div class="thumbnail-text">
+                    TEM064 Various actresses (3.8 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/nnpj263_2">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/nnpj263/nnpj263pl.jpg">
+                <div class="thumbnail-text">
+                    NNPJ263 (3.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/wanz699">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/wanz699/wanz699pl.jpg">
+                <div class="thumbnail-text">
+                    WANZ699 Tsubomi (3.5 GB)
+                </div>
+            </a>
+        </div>
+    
+        <div class="thumbnail is-inline">
+            <a class="thumbnail-link" href="/torrent/fiv006_2">
+                <img style="max-width: 400px; max-height: 268px;" src="https://pics.dmm.co.jp/mono/movie/adult/118fiv006/118fiv006pl.jpg">
+                <div class="thumbnail-text">
+                    FIV006 (7.0 GB)
+                </div>
+            </a>
+        </div>
+    
+</div>
+
+    </div>
+</div>
+
+
+</div>
+
+<button class="button is-primary is-fullwidth" id="button-load-more">
+    Load more
+</button>
+<div class="has-text-centered" id="loading" style="display: none;">
+    <i class="fa fa-spinner fa-pulse fa-fw"></i>
+    <span>Loading...</span>
+</div>
+
+
+</div>
+
+
+        <footer class="footer">
+    <div class="container">
+        <p class="has-text-centered has-text-grey is-size-6">
+            <i class="fa fa-quote-left" aria-hidden="true"></i>
+            <em>
+                One JAV to rule them all, One JAV to find them,<br>
+                One JAV to bring them all and in the darkness bind them.
+            </em>
+            <i class="fa fa-quote-right" aria-hidden="true"></i>
+        </p>
+        <div class="level">
+            <div class="level-left">
+              <div class="content">
+                  <div>All performers on this site are over 18 years old.</div>
+                  <div>© 2017 OneJAV.com, All Rights Reserved.</div>
+                  <div>
+                      Bitcoin: <a href="bitcoin:14r2XcUsfqqnYx1Ck4CuJT4gH8NFga5WbR">14r2XcUsfqqnYx1Ck4CuJT4gH8NFga5WbR</a>
+                  </div>
+              </div>
+              </div>
+            <div class="level-right">
+                <div class="content">
+                    <a class="footer-icon" href="/feeds/" target="_blank" data-toggle="tooltip" title="RSS">
+                        <i class="fa fa-rss-square"></i>
+                    </a>
+                    <a class="footer-icon" href="https://www.facebook.com/sharer/sharer.php?u=https://onejav.com" target="_blank" rel="nofollow" data-toggle="tooltip" title="Share on Facebook">
+                        <i class="fa fa-facebook-official"></i>
+                    </a>
+                    <a class="footer-icon" href="https://twitter.com/share?url=https://onejav.com&amp;text=JAV%20Torrents&amp;hashtags=porn&amp;" target="_blank" rel="nofollow" data-toggle="tooltip" title="Share on Twitter">
+                        <i class="fa fa-twitter-square"></i>
+                    </a>
+                    <nav class="nav nav-inline">
+                        <a class="nav-link" href="/contact">DMCA</a>
+                        <a class="nav-link" href="/contact">Contact</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</footer>
+
+
+        
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js" integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY" crossorigin="anonymous"></script>
+            <script src="/static/js/dragscroll.d3612f9e82e9.js"></script>
+            <script src="/static/js/onejav.2a0d26d4a77c.js"></script>
+		
+			
+            
+            <script type='text/javascript' src='//pl14317516.puserving.com/7f/f9/4e/7ff94e9461629d2f54ff14725863196e.js'></script>
+            
+        
+        
+<script>
+$(document).ready(function() {
+    var days = $('.card-overview').length
+    var win = $(window);
+    var ended = false;
+    var responded = true;
+    var loadMore = false;
+    function loadNextOverview(){
+        $('#loading').show();
+            days++;
+            responded = false;
+            $.ajax({
+                type: 'get',
+                data: {
+                    'action': 'overview',
+                    'currentdate': $('.card-overview:last').attr('data-date'),
+                },
+                url: '/',
+                dataType: 'html',
+                success: function(html) {
+                    $('#overview_list').append(html);
+                    $('#loading').hide();
+                    thumbnailDragscroll();
+                    responded = true;
+                },
+                statusCode: {
+                    404: function() {
+                        responded = true;
+                        ended = true;
+                        $('#loading').hide();
+                        thumbnailDragscroll();
+                    }
+                }
+            });
+    }
+    $('#button-load-more').click(function(){
+        $('#button-load-more').hide();
+        loadMore = true;
+        loadNextOverview();
+    })
+    win.scroll(function() {
+        if ($(document).height() - win.height() > win.scrollTop()-10 && !ended && responded && loadMore) {
+            loadNextOverview();
+            console.log('load next');
+        }
+    });
+});
+</script>
+
+    </body>
+</html>
+
+20171224210235
+[Finished in 6.6s]
