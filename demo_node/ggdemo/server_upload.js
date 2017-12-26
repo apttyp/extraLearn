@@ -23,6 +23,9 @@ app.post('/file_upload', function(req, res){
 	// console.log(req);
 	console.log(req.files[0]);
 	var des_file = __dirname+"\\"+req.files[0].originalname;
+
+	fs.createReadStream(req.files[0].path).pipe(fs.createWriteStream(des_file));
+
 	fs.readFile(req.files[0].path, function(err, data){
 		fs.writeFile(des_file, data, function(err){
 			if(err){
@@ -36,7 +39,6 @@ app.post('/file_upload', function(req, res){
 			console.log(response);
 			res.end(JSON.stringify(response));
 		});
-
 	});
 
 })
